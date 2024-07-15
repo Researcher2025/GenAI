@@ -1,6 +1,4 @@
 # GenAI
-It contains projects on Large Language Models
-Infosys Internship 4.0 Project Documentation
                    Title: Project Documentation: [AI Resume Matchmaker]
 
                                                       •Introduction:
@@ -30,35 +28,7 @@ The AI Resume Matchmaker project is an innovative endeavor designed to revolutio
 The significance of the AI Resume Matchmaker project lies in its potential to transform the recruitment landscape. By automating the resume screening process and improving job matching accuracy, the project can significantly reduce the time and cost associated with hiring. Furthermore, it enhances the candidate experience by ensuring that job recommendations are tailored to individual profiles, thereby increasing the likelihood of successful job placements. Additionally, the project aims to address and reduce biases in recruitment, fostering a more diverse and inclusive workforce.
 
 
-                                         Team Members and Roles:
-
-Team Lead:Tarun Mangalampalli
-
-Contributed towards Milestone 2 for integrating Docker and Qdrant Vector Database and also for a User Interface Design.
-
-Members:
-
-Aanisha Shewate,Apurva Mhamane,B.Pujitha,Chaitanya Vibhakar,Chirra Karthikeya,Deekshitha Dubyala,DNV Likhitha Chittineedi,Emi Elsa Shyju,Ganta greshma,Gitesh Kolambe,Kumar Kausik Sahu,P INDHU SHREE,Pooja,Pynni Srujana,Rajdip Mukherjee,Samarth S,Sankalp pandey,Shatoparna Bhattacharya,Vishwanathan Krishna
-
-
-Roles:
-
-•	Contributed towards all 3 milestones and Machine Learning Algorithm selection.
-
-•	Contributed towards integration of UI with Models.
-
-•	Contributed towards increasing the accuracy of Models.
-
-•	Contributed towards GenAI approach and ML approach.
-
-•	Contributed towards Dataset Collection and Preprocessing.
-
-
-
-
-
-
-
+          
                                                      •Project Scope:
 
 The AI Resume Matchmaker project is an ambitious and groundbreaking initiative aimed at redefining the recruitment landscape through the integration of advanced artificial intelligence technologies. In today's fast-paced and highly competitive job market, both employers and job seekers face significant challenges. Employers struggle to efficiently sift through a deluge of resumes to find the right candidates, while job seekers often feel lost in the sea of job opportunities, unsure of which positions best align with their skills and career aspirations. This project seeks to address these challenges head-on by creating a sophisticated AI-driven platform that not only matches resumes to job descriptions with exceptional accuracy but also enhances the overall recruitment experience for all stakeholders involved.
